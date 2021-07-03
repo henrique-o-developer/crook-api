@@ -1,0 +1,2 @@
+language = "nodejs"
+run = "node --max-old-space-size=450 ./index.js"
